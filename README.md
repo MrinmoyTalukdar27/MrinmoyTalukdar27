@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mrinmoytalukdargcu@gmail.com**
 
-- ⚡ Fun fact **⚡ Fun fact: I love exploring data and uncovering hidden insights—it feels like solving real-world puzzles.**
+- ⚡ Fun fact ⚡ I love exploring data and uncovering hidden insights—it feels like solving real-world puzzles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
