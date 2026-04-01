@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mrinmoy Talukdar</h1>
-<h3 align="center">An aspiring Data Scientist / ML Engineer</h3>
+<h3 align="center">An aspiring Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinmoytalukdar27&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoytalukdar27" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrinmoytalukdar27" alt="mrinmoytalukdar27" /></a> </p>
 
-- 🌱 I’m currently learning **I am currently learning Machine Learning and Data Science, and building projects to improve my skills.**
+- 🌱 I’m currently learning **Machine Learning and Data Science, and building projects to improve my skills.**
 
-- 💬 Ask me about **💬 Ask me about: - Python programming - Data Science basics - Machine Learning fundamentals**
+- 💬 Ask me about **Python programming - Data Science basics - Machine Learning fundamentals**
 
 - 📫 How to reach me **mrinmoytalukdargcu@gmail.com**
 
-- ⚡ Fun fact ⚡ I love exploring data and uncovering hidden insights—it feels like solving real-world puzzles.**
+- ⚡ Fun fact **I love exploring data and uncovering hidden insights—it feels like solving real-world puzzles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrinmoytalukdar27&show_icons=true&locale=en" alt="mrinmoytalukdar27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinmoytalukdar27&" alt="mrinmoytalukdar27" /></p>
-
