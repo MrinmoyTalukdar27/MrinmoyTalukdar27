@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I love exploring data and uncovering hidden insights—it feels like solving real-world puzzles.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:www.linkedin.com/in/mrinmoy-talukdar-5867ab3b9</h3>
 <p align="left">
 </p>
 
