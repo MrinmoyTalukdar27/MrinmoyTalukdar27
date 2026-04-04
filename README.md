@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinmoytalukdar27&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoytalukdar27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrinmoytalukdar27" alt="mrinmoytalukdar27" /></a> </p>
+
 
 - 🌱 I’m currently learning **Machine Learning and Data Science, and building projects to improve my skills.**
 
