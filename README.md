@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning and Data Science, and building projects to improve my skills.**
+- 🌱 I’m currently learning ** Machine Learning and Data Science, and building projects to improve my skills. **
 
 - 💬 Ask me about **Python programming - Data Science basics - Machine Learning fundamentals**
 
