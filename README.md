@@ -10,7 +10,7 @@
 - <h3 align="left">Connect with me:</h3>
 - Gmail-**mrinmoytalukdargcu@gmail.com**
 - Linkedin-**www.linkedin.com/in/mrinmoy-talukdar-5867ab3b9**
-- Medium-**https://medium.com/@mrinmoytalukdargcu/followers**
+- Medium-**https://medium.com/me/stories**
 
 - ⚡ Fun fact **I love exploring data and uncovering hidden insights—it feels like solving real-world puzzles.**
 
