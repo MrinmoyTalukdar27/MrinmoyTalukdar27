@@ -8,7 +8,7 @@
 -  Ask me about Python programming - Data Science - Machine Learning 
 
 
-- <h3 align="left">Connect with me:</h3>
+- <h3 align="left"> Connect with me:</h3>
 - Gmail-**mrinmoytalukdargcu@gmail.com**
 - Linkedin-**www.linkedin.com/in/mrinmoy-talukdar-5867ab3b9**
 - Medium-**https://medium.com/me/stories**
