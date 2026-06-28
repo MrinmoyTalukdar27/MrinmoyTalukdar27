@@ -1,4 +1,4 @@
-<<h1 align="center"> I am Mrinmoy Talukdar</h1>
+<<h1 align="center"> I am mrinmoy Talukdar</h1>
 <h3 align="center">An aspiring Data Scientist/ ML enginer </h3>
 
 
