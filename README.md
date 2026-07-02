@@ -5,7 +5,7 @@
 
 -  I’m currently learning ** Machine Learning and Data Science, and building projects to improve my skills.**
 
--  Ask me about Python programming - Data Science - Machine Learning 
+- Ask me about Python programming - Data Science - Machine Learning 
 
 
 - <h3 align="left"> Connect with me:</h3>
