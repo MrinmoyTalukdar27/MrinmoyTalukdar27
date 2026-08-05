@@ -26,6 +26,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinmoytalukdar27&" alt="mrinmoytalukdar27" /></p>
+
 
 
