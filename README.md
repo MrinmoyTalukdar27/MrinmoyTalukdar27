@@ -1,5 +1,5 @@
 <<h1 align="center"> Hi I Am Mrinmoy Talukdar </h1>
-<h3 align="center">An Aspiring Data Scientist/ ML enginer  </h3>
+<h3 align="center"> Data Scientist/ ML enginer  </h3>
 
 
 
